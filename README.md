@@ -29,10 +29,9 @@ pet-life/
 ├── src/
 │ ├── img/ # Imagens, fontes e ícones
 │ ├── index.html # Código fonte
-│ └── styles/ # Arquivos CSS
-| └── script.js # Arquivo JS
+│ ├── styles/ # Arquivos CSS
+│ └── script.js # Arquivo JS
 └── README.md # Documentação do projeto
-
 
 ---
 
